@@ -1,6 +1,10 @@
 # Guillaume's github profile
 
-Computer science student at [HEIG-VD](https://heig-vd.ch) and software developer for [MATISA](https://matisa.ch). In my spare time, I work for my digital agency [onelance](https://onelance.ch) creating websites and mobile applications.
+R&D software engineer at the [IICT institute](https://heig-vd.ch) of HEIG-VD, based in Lausanne, Switzerland. I'm mostly interested in software architecture and system modernization: making systems easier to test, deploy and maintain.
+
+In my spare time, I work for my digital agency [onelance](https://onelance.ch) building modern solutions to clients' projects and problems.
+
+Find out more on [trueeb.dev](https://trueeb.dev) or [LinkedIn](https://www.linkedin.com/in/guillaumetrueb).
 
 <table>
     <tr>
