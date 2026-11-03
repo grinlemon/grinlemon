@@ -6,5 +6,4 @@ In my spare time, I work for my digital agency [onelance](https://onelance.ch) b
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=grinlemon&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grinlemon&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages">
 </p>
